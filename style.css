@@ -1,0 +1,72 @@
+body {
+    background-image: url("bg-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.artist {
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.lyrics {
+    width: 30%;
+    text-align: center;
+    /* font-family: 'Noto Sans Mono', monospace; */
+}
+
+.red {
+    color: red;
+}
+.snapitc{
+    font-family: "Snap ITC", sans-serif;
+    color: rgb(255, 123, 0);
+}
+.Magneto{
+    font-family: "Magneto", sans-serif;
+    color: rgb(90, 0, 84);
+}
+.Matura{
+    font-family: "Matura MT Script Capitals", sans-serif;
+    color: rgb(209, 19, 85);
+}
+.Rosewood{
+    font-family: "Rosewood Std Regular";
+    color: rgb(111, 0, 255);
+}
+.pink {
+    color: rgb(255, 0, 132);
+}
+.Blackadder{
+    font-family: "Blackadder ITC";
+    color: rgb(251, 251, 251);
+}
+.decoration{
+    text-decoration: underline;
+}
+.Broadway{
+    font-family: "Broadway", sans-serif;
+}
+.Chiller{
+    font-family: "Chiller", sans-serif;
+    text-decoration:line-through;
+}
+.Algerian{
+    font-family: "Algerian", sans-serif;
+    color: rgb(93, 14, 55);
+}
+.Freestyle{
+    font-family: "Freestyle Script", sans-serif;
+}
